@@ -37,7 +37,7 @@ void column_drop(vector<int> drops, vector<vector<T>>& tdata)
     {
         if (k > 0)
         {
-            drops[k] = drops[k] - 1;
+            drops[k] = drops[k] - k;
         }
         for (int i = 0; i < tdata.size(); i++)
         {
