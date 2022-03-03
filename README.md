@@ -1,3 +1,4 @@
 # KMeanClustering
 
-K-mean Clustering algorithm in pure C++
+The K-mean Clustering algorithm is written entirely in C++.
+I'm doing this for my own academic objectives, therefore the algorithm may contain some inconsistencies.
