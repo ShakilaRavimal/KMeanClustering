@@ -1,3 +1,3 @@
 # KMeanClustering
 
-The K-mean Clustering algorithm in C++
+The K-mean Clustering algorithm in pure C++
